@@ -42,5 +42,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 Hi there! I'm Mohamed. I’m a Data Engineer!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:  
+- 📧 Email: [mo.badt.ismail@gmail.com)@gmail.com](mailto:mo.badt.ismail@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/mbi162](www.linkedin.com/in/mbi162)
 
 
