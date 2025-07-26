@@ -42,7 +42,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 Hi there! I'm Mohamed. I’m a Data Engineer!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:  
-- 📧 [Email](mailto:mo.badr.ismail@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/mbi162)
+- 📧 [Email](mo.badr.ismail@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mbi162/)
 
 
