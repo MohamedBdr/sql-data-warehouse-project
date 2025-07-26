@@ -39,7 +39,9 @@ For more details, refer to docs/requirements.md.
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-Hi there! I'm Mohamed. I’m a Data Engineer!
+Hi there! I'm Mohamed. A Data Engineer trainee at ITI with hands-on experience in data pipelines, warehousing, and big data tools. Passionate about turning data into insights and growing my technical skills.
+
+
 
 Let's stay in touch! Feel free to connect with me on the following platforms:  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mo.badr.ismail@gmail.com)
